@@ -1,0 +1,12 @@
+name = "LoopOSAgentCommunication"
+uuid = "d25d84df-9591-4f07-8e66-d10919cee580"
+version = "1.0.0"
+authors = ["1m1 <imi@1m1.io>"]
+
+[deps]
+LoopOS = "59e1c01a-66d3-4f31-a2af-c2f41340710f"
+ZMQ = "c2297ded-f4af-51ae-bb23-16f91089e4e1"
+
+[compat]
+LoopOS = ">=2.0.0"
+ZMQ = ">=1.5.1"
