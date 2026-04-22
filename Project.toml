@@ -1,6 +1,6 @@
 name = "LoopOSAgentCommunication"
 uuid = "d25d84df-9591-4f07-8e66-d10919cee580"
-version = "1.0.0"
+version = "2.0.0"
 authors = ["1m1 <imi@1m1.io>"]
 
 [deps]
